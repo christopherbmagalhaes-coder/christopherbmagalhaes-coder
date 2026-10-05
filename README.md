@@ -47,8 +47,6 @@ Aqui no meu GitHub compartilho projetos acadêmicos, projetos desenvolvidos dura
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherbmagalhaes-coder&layout=compact&theme=tokyonight" />
 </p>
 
-### 🐍 Gráfico de Contribuições
-![Snake animation](https://raw.githubusercontent.com/christopherbmagalhaes-coder/christopherbmagalhaes-coder/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
