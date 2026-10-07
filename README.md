@@ -6,7 +6,7 @@ Tenho experiência prática em projetos utilizando **Python, JavaScript, C, HTML
 
 Também possuo conhecimentos em **POO, lógica de programação, arquitetura modular, estruturas de dados e bancos de dados relacionais**.
 
-Aqui no meu GitHub compartilho projetos acadêmicos, projetos desenvolvidos durante formações e experimentos que fazem parte da minha jornada de aprendizado e evolução na programação.
+Aqui no meu GitHub compartilho projetos acadêmicos, projetos desenvolvidos durante formações e experimentos que fazem parte da minha jornada de aprendizado e evolução na programaçã.
 
 ---
 
